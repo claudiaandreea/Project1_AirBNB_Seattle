@@ -24,5 +24,5 @@ For this project I have used the Seattle AirBNB homes data to offer a high-level
 The main findings of this study can be found in [here](https://medium.com/@claudiaandreea.toma/reaching-a-new-potential-for-a-seattle-host-46773271d1fd).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-I would like to give credit to AirBNB for the database used for this study. You can  find the Licensing for the data and the descriptive information on the [Kaggle platform](https://www.kaggle.com/airbnb/seattle/data?select=listings.csv). 
+I would like to give credit to AirBNB for the database used for this study and to Udacity for all the code techniques learning through the Data Science program. You can  find the Licensing for the data and the descriptive information on the [Kaggle platform](https://www.kaggle.com/airbnb/seattle/data?select=listings.csv). 
 Feel free to use my code and maybe take a look at the blog post mentioned above. 
