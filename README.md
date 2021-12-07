@@ -11,9 +11,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 For this project I have used the Seattle AirBNB homes data to offer a high-level overview over the data and to answer the following questions:
-1.	Can we predict the price established for an accommodation based on the facilities listed by the host?
-2.	What factors seem to have a strong impact in receiving a good review?
-4.	Can we state the availability of an accommodation based on previous customer experience and facilities?
+1.	How can we describe the Seattle accommodation offer?
+2.	Can we predict the price established for an accommodation based on the facilities listed by the host?
+4.	What factors seem to have a strong impact in receiving a Superhost badge?
 
 ## File Descriptions <a name="files"></a>
 1. Database - stores the Seattle AirBNB homes data (can be found [here](https://www.kaggle.com/airbnb/seattle/data?select=listings.csv)).
@@ -22,7 +22,7 @@ For this project I have used the Seattle AirBNB homes data to offer a high-level
 4. Results - containts the main findings of this project.
 
 ## Results<a name="results"></a>
-The main findings of this study can be found in [here](https://medium.com/me/stories/drafts).
+The main findings of this study can be found in [here](https://medium.com/@claudiaandreea.toma/reaching-a-new-potential-for-a-seattle-host-46773271d1fd).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 I would like to give credit to AirBNB for the database used for this study. You can  find the Licensing for the data and the descriptive information on the [Kaggle platform](https://www.kaggle.com/airbnb/seattle/data?select=listings.csv). 
