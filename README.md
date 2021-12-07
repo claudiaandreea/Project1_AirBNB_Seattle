@@ -19,7 +19,6 @@ For this project I have used the Seattle AirBNB homes data to offer a high-level
 1. Database - stores the Seattle AirBNB homes data (can be found [here](https://www.kaggle.com/airbnb/seattle/data?select=listings.csv)).
 2. AirBNB_Seattle - containts the code used to obtain all the results for the questions listed above.
 3. Images - stores the images file used for this project.
-4. Results - containts the main findings of this project.
 
 ## Results<a name="results"></a>
 The main findings of this study can be found in [here](https://medium.com/@claudiaandreea.toma/reaching-a-new-potential-for-a-seattle-host-46773271d1fd).
